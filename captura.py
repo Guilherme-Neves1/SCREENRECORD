@@ -1,6 +1,6 @@
 import cv2
 import keyboard
-import pyautogui
+import pyautogui #i
 import numpy as np
 
 fps = 30
